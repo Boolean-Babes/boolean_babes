@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feb0db17-6068-4cbc-9478-430e3c3604f5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/boolean_babes/app/src/main/java/com/example/boolean_babes/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/boolean_babes/app/src/main/java/com/example/boolean_babes/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boolean_babes/app/src/main/java/com/example/boolean_babes/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/boolean_babes/app/src/main/java/com/example/boolean_babes/Triangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="feb0db17-6068-4cbc-9478-430e3c3604f5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
