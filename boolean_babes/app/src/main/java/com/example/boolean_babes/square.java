@@ -1,2 +1,5 @@
-package com.example.boolean_babes;public class square {
+package com.example.boolean_babes;
+
+public class square extends Shape{
+
 }
